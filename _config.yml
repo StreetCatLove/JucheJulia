@@ -4,7 +4,7 @@ remote_theme: digitalmalayali/linkhub-jekyll-theme
 # Site Configuration
 name: Juche Julia  # Name of your website
 tagline: Links  # Set your preferred page title
-description: communist & certified juche lover. there is only one korea 🇰🇵🇰🇷. glory to the resistance, always.  # Also used as a meta description
+description: communist & certified juche lover. there is only one korea 🇰🇵🇰🇷. glory to the resistance, always. Tatreez and Theory Streams Wed & Fri 12 PM - 4 PM EST # Also used as a meta description
 favicon:
   path: https://raw.githubusercontent.com/StreetCatLove/JucheJulia/refs/heads/main/favicon.ico # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
   type: ico # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
