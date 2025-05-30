@@ -3,21 +3,25 @@ icon-position: left # Set to left/right
 buttons:
   - category: Links
     items:
-    - title: HashKush on Kick
-      url: https://kick.com/hashkush
+    - title: JucheJulia on Kick
+      url: https://kick.com/juchejulia
       icon: tdesign:letters-k # Icons are optional
 
-    - title: HashKush on BlueSky
+    - title: k1myojong on Twitter
       url: https://bsky.app/profile/hashkush.bsky.social
-      icon: tdesign:cloudy-sunny # Icons are optional
+      icon: tdesign:twitter # Icons are optional
 
-    - title: HashKush on Youtube
-      url: https://www.youtube.com/@amamhurley
-      icon: tdesign:film # Icons are optional
+    - title: Affiliate of Red Star Vanguard
+      url: https://rsvg.org/
+      icon: tdesign:chat-message # Icons are optional    
 
-    - title: HashKush on SoundCloud
-      url: https://soundcloud.com/hashpipe
-      icon: tdesign:sound # Icons are optional   
+    - title: Help a family in Gaza
+      url: https://chuffed.org/project/127747-save-asma-family
+      icon: tdesign:heart # Icons are optional    
+    
+    - title: Juche Julia on Twitch
+      url: https://www.twitch.tv/street_cat_love
+      icon: tdesign:camera # Icons are optional
 
     - title: Divest From Twitch
       url: https://streetcatlove.github.io/hellostreetcat/divest
