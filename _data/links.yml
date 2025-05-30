@@ -9,7 +9,7 @@ buttons:
 
     - title: k1myojong on Twitter
       url: https://bsky.app/profile/hashkush.bsky.social
-      icon: tdesign:twitter # Icons are optional
+      icon: ri:twitter-fill # Icons are optional
 
     - title: Affiliate of Red Star Vanguard
       url: https://rsvg.org/
