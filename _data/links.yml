@@ -3,7 +3,7 @@ icon-position: left # Set to left/right
 buttons:
   - category: Links
     items:
-    - title: JucheJulia on Kick
+    - title: Juche Julia on Kick
       url: https://kick.com/juchejulia
       icon: tdesign:letters-k # Icons are optional
 
