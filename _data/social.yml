@@ -1,0 +1,24 @@
+- name: kick
+  url: https://kick.com/hashkush
+  icon: tdesign:letters-k
+  color: '#53FC18'
+
+- name: bsky
+  url: https://bsky.app/profile/hashkush.bsky.social
+  icon: tdesign:cloudy-sunny
+  color: '#1D9BF0'
+
+- name: youtube
+  url: https://www.youtube.com/@amamhurley
+  icon: ri:youtube-fill
+  color: '#FF0000'
+
+- name: x
+  url: https://x.com/hashkush
+  icon: ri:twitter-fill
+  color: '#1D9BF0'
+
+- name: soundcloud
+  url: https://soundcloud.com/hashpipe
+  icon: ri:soundcloud-fill
+  color: '#FD6E00'

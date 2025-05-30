@@ -1,0 +1,24 @@
+fixed-button-width: false # Set to true/false
+icon-position: left # Set to left/right
+buttons:
+  - category: Links
+    items:
+    - title: HashKush on Kick
+      url: https://kick.com/hashkush
+      icon: tdesign:letters-k # Icons are optional
+
+    - title: HashKush on BlueSky
+      url: https://bsky.app/profile/hashkush.bsky.social
+      icon: tdesign:cloudy-sunny # Icons are optional
+
+    - title: HashKush on Youtube
+      url: https://www.youtube.com/@amamhurley
+      icon: tdesign:film # Icons are optional
+
+    - title: HashKush on SoundCloud
+      url: https://soundcloud.com/hashpipe
+      icon: tdesign:sound # Icons are optional   
+
+    - title: Divest From Twitch
+      url: https://streetcatlove.github.io/hellostreetcat/divest
+      icon: tdesign:chat-message # Icons are optional
