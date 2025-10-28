@@ -7,16 +7,12 @@ buttons:
       url: https://kick.com/juchejulia
       icon: tdesign:letters-k # Icons are optional
 
-    - title: k1myojong on Twitter
-      url: https://bsky.app/profile/hashkush.bsky.social
-      icon: ri:twitter-fill # Icons are optional
-
     - title: Affiliate of Red Star Vanguard
       url: https://rsvg.org/
       icon: tdesign:chat-message # Icons are optional    
 
     - title: Help a family in Gaza
-      url: https://chuffed.org/project/127747-save-asma-family
+      url: https://lifeline4gaza.com
       icon: tdesign:heart # Icons are optional    
     
     - title: Juche Julia on Twitch
